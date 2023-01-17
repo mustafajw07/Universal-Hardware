@@ -12,6 +12,8 @@ import { ProductPageComponent } from './pages/product-page/product-page.componen
 import { ErrorPageComponent } from './pages/error-page/error-page.component';
 import { HeaderComponent } from './partials/header/header.component';
 import { FooterComponent } from './partials/footer/footer.component';
+import { FormComponent } from './components/contactPage/form/form.component';
+import { MainComponent } from './components/errorPage/main/main.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +24,8 @@ import { FooterComponent } from './partials/footer/footer.component';
     ErrorPageComponent,
     HeaderComponent,
     FooterComponent,
+    FormComponent,
+    MainComponent,
   ],
   imports: [
     BrowserModule,
