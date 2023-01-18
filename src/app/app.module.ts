@@ -9,11 +9,12 @@ import { AppComponent } from './app.component';
 import { HomePageComponent } from './pages/home-page/home-page.component';
 import { ContactusPageComponent } from './pages/contactus-page/contactus-page.component';
 import { ProductPageComponent } from './pages/product-page/product-page.component';
-import { ErrorPageComponent } from './pages/error-page/error-page.component';
 import { HeaderComponent } from './partials/header/header.component';
 import { FooterComponent } from './partials/footer/footer.component';
-import { FormComponent } from './components/contactPage/form/form.component';
-import { MainComponent } from './components/errorPage/main/main.component';
+import { BannerComponent } from './components/homePage/banner/banner.component';
+import { CompanyComponent } from './components/homePage/company/company.component';
+import { OurProductsComponent } from './components/homePage/our-products/our-products.component';
+import { TopProductsComponent } from './components/homePage/top-products/top-products.component';
 
 @NgModule({
   declarations: [
@@ -21,11 +22,12 @@ import { MainComponent } from './components/errorPage/main/main.component';
     HomePageComponent,
     ContactusPageComponent,
     ProductPageComponent,
-    ErrorPageComponent,
     HeaderComponent,
     FooterComponent,
-    FormComponent,
-    MainComponent,
+    BannerComponent,
+    CompanyComponent,
+    OurProductsComponent,
+    TopProductsComponent,
   ],
   imports: [
     BrowserModule,

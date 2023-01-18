@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ErrorPageComponent } from './error-page.component';
+import { TopProductsComponent } from './top-products.component';
 
-describe('ErrorPageComponent', () => {
-  let component: ErrorPageComponent;
-  let fixture: ComponentFixture<ErrorPageComponent>;
+describe('TopProductsComponent', () => {
+  let component: TopProductsComponent;
+  let fixture: ComponentFixture<TopProductsComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ErrorPageComponent ]
+      declarations: [ TopProductsComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(ErrorPageComponent);
+    fixture = TestBed.createComponent(TopProductsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
