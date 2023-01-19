@@ -1,0 +1,16 @@
+footer {
+    background-color: #dee2e6;
+    padding-top: 1px;
+  }
+  .copyright {
+    background-color: #adb5bd;
+  }
+  a {
+    text-decoration: none;
+  }
+  @media (max-width: 767px) {
+    .txt {
+      margin-right: 16px !important;
+    }
+  }
+  
