@@ -1,16 +1,16 @@
 footer {
-    background-color: #dee2e6;
-    padding-top: 1px;
+  background-color: #78a6c8;
+  padding-top: 1px;
+  border: 5px solid #e9eef2;
+}
+.copyright {
+  background-color: #78a6c8;
+}
+a {
+  text-decoration: none;
+}
+@media (max-width: 767px) {
+  .txt {
+    margin-right: 16px !important;
   }
-  .copyright {
-    background-color: #adb5bd;
-  }
-  a {
-    text-decoration: none;
-  }
-  @media (max-width: 767px) {
-    .txt {
-      margin-right: 16px !important;
-    }
-  }
-  
+}
