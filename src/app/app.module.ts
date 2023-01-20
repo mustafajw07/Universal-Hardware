@@ -14,7 +14,6 @@ import { FooterComponent } from './partials/footer/footer.component';
 import { BannerComponent } from './components/homePage/banner/banner.component';
 import { CompanyComponent } from './components/homePage/company/company.component';
 import { OurProductsComponent } from './components/homePage/our-products/our-products.component';
-import { TopProductsComponent } from './components/homePage/top-products/top-products.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +26,6 @@ import { TopProductsComponent } from './components/homePage/top-products/top-pro
     BannerComponent,
     CompanyComponent,
     OurProductsComponent,
-    TopProductsComponent,
   ],
   imports: [
     BrowserModule,
