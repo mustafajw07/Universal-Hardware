@@ -9,11 +9,17 @@ import { AppComponent } from './app.component';
 import { HomePageComponent } from './pages/home-page/home-page.component';
 import { ContactusPageComponent } from './pages/contactus-page/contactus-page.component';
 import { ProductPageComponent } from './pages/product-page/product-page.component';
+
+// Partials
 import { HeaderComponent } from './partials/header/header.component';
 import { FooterComponent } from './partials/footer/footer.component';
+
+// Components
 import { BannerComponent } from './components/homePage/banner/banner.component';
 import { CompanyComponent } from './components/homePage/company/company.component';
 import { OurProductsComponent } from './components/homePage/our-products/our-products.component';
+import { TopSellingComponent } from './components/homePage/top-selling/top-selling.component';
+
 
 @NgModule({
   declarations: [
@@ -26,6 +32,7 @@ import { OurProductsComponent } from './components/homePage/our-products/our-pro
     BannerComponent,
     CompanyComponent,
     OurProductsComponent,
+    TopSellingComponent,
   ],
   imports: [
     BrowserModule,
