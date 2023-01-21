@@ -1,0 +1,16 @@
+footer {
+  background-color: #EEEEEE;
+  padding-top: 1px;
+  border-top: 3px solid #326789;
+}
+.copyright {
+  background-color: #78A6C8;
+}
+a {
+  text-decoration: none;
+}
+@media (max-width: 767px) {
+  .txt {
+    margin-right: 16px !important;
+  }
+}

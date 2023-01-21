@@ -9,11 +9,17 @@ import { AppComponent } from './app.component';
 import { HomePageComponent } from './pages/home-page/home-page.component';
 import { ContactusPageComponent } from './pages/contactus-page/contactus-page.component';
 import { ProductPageComponent } from './pages/product-page/product-page.component';
-import { ErrorPageComponent } from './pages/error-page/error-page.component';
+
+// Partials
 import { HeaderComponent } from './partials/header/header.component';
 import { FooterComponent } from './partials/footer/footer.component';
-import { FormComponent } from './components/contactPage/form/form.component';
-import { MainComponent } from './components/errorPage/main/main.component';
+
+// Components
+import { BannerComponent } from './components/homePage/banner/banner.component';
+import { CompanyComponent } from './components/homePage/company/company.component';
+import { OurProductsComponent } from './components/homePage/our-products/our-products.component';
+import { TopSellingComponent } from './components/homePage/top-selling/top-selling.component';
+import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsapp-btn.component';
 
 @NgModule({
   declarations: [
@@ -21,11 +27,13 @@ import { MainComponent } from './components/errorPage/main/main.component';
     HomePageComponent,
     ContactusPageComponent,
     ProductPageComponent,
-    ErrorPageComponent,
     HeaderComponent,
     FooterComponent,
-    FormComponent,
-    MainComponent,
+    BannerComponent,
+    CompanyComponent,
+    OurProductsComponent,
+    TopSellingComponent,
+    WhatsappBtnComponent,
   ],
   imports: [
     BrowserModule,
@@ -34,6 +42,6 @@ import { MainComponent } from './components/errorPage/main/main.component';
     HttpClientModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
