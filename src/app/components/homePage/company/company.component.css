@@ -7,7 +7,6 @@
   background-color: #dddddd;
   border-top: 3px solid #326789;
   border-bottom: 3px solid #326789;
-  box-shadow: rgb(209, 202, 202) 0px 20px 30px -10px;
 }
 .logo-row-one , .logo-row-two {
   display: flex;
