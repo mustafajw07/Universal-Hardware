@@ -6,13 +6,16 @@
   padding: 1em;
   margin-top: 50px;
   margin-bottom: 50px;
-  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  background-color: #EEEEEE;
 }
 
 div.form {
-  background-color: #dddddd;
+  background-color: #EEEEEE;
 }
 .contact-wrapper {
+  display: flex;
+  align-items: center;
   margin: auto 0;
 }
 .map {
@@ -85,6 +88,7 @@ textarea {
 }
 @media (min-width: 700px) {
   .wrapper {
+    align-content: center;
     display: grid;
     grid-template-columns: 2fr 2fr;
   }
@@ -92,7 +96,7 @@ textarea {
     padding: 2em 2em;
   }
   .map {
-    width: 400px;
+    width: 500px;
     height: 400px;
   }
 }
@@ -107,7 +111,7 @@ ul {
 }
 
 .form {
-  background: #fff;
+  background: #dddddd;
 }
 
 form {
