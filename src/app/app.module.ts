@@ -19,7 +19,7 @@ import { BannerComponent } from './components/homePage/banner/banner.component';
 import { CompanyComponent } from './components/homePage/company/company.component';
 import { OurProductsComponent } from './components/homePage/our-products/our-products.component';
 import { TopSellingComponent } from './components/homePage/top-selling/top-selling.component';
-
+import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsapp-btn.component';
 
 @NgModule({
   declarations: [
@@ -33,6 +33,7 @@ import { TopSellingComponent } from './components/homePage/top-selling/top-selli
     CompanyComponent,
     OurProductsComponent,
     TopSellingComponent,
+    WhatsappBtnComponent,
   ],
   imports: [
     BrowserModule,
@@ -41,6 +42,6 @@ import { TopSellingComponent } from './components/homePage/top-selling/top-selli
     HttpClientModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
