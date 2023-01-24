@@ -8,6 +8,7 @@ export class ApiService {
 
   constructor(private http :HttpClient) { }
 
+  // Home Page
   getAllTrendingProducts(){
     return this.http.get('../../assets/json/HomePageTrending.json')
   }
