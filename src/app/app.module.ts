@@ -19,6 +19,8 @@ import { BannerComponent } from './components/homePage/banner/banner.component';
 import { CompanyComponent } from './components/homePage/company/company.component';
 import { OurProductsComponent } from './components/homePage/our-products/our-products.component';
 import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsapp-btn.component';
+import { SelectorComponent } from './components/productsPage/selector/selector.component';
+import { HeadingComponent } from './components/productsPage/heading/heading.component';
 
 @NgModule({
   declarations: [
@@ -32,6 +34,8 @@ import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsap
     CompanyComponent,
     OurProductsComponent,
     WhatsappBtnComponent,
+    SelectorComponent,
+    HeadingComponent,
   ],
   imports: [
     BrowserModule,

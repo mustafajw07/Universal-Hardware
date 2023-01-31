@@ -9,6 +9,12 @@
     border-bottom: 3px solid #326789;
     box-shadow: rgb(209, 202, 202) 0px 20px 30px -10px;
   }
+  h3{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-decoration: underline;
+  }
   .logo-row-one , .logo-row-two {
     display: flex;
     flex-direction: row;
