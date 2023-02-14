@@ -1,11 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.min.css";
 /* 
-#E9EEF2 //White
-#E65c4f // Red
-#78A6C8 //Blue
-#326789 // Grey
-#EEEEEE //Light Grey
+#ededed //White
+#f05454 // Red
+#444 //light black
+#171717 // Black
+#ddd //Light Grey
 */
 
 *,
@@ -20,5 +20,5 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #e9eef2;
+  background-color: #ededed;
 }
