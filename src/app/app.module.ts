@@ -21,6 +21,7 @@ import { OurProductsComponent } from './components/homePage/our-products/our-pro
 import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsapp-btn.component';
 import { SelectorComponent } from './components/productsPage/selector/selector.component';
 import { HeadingComponent } from './components/productsPage/heading/heading.component';
+import { ProductSectionComponent } from './components/productsPage/product-section/product-section.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { HeadingComponent } from './components/productsPage/heading/heading.comp
     WhatsappBtnComponent,
     SelectorComponent,
     HeadingComponent,
+    ProductSectionComponent,
   ],
   imports: [
     BrowserModule,
