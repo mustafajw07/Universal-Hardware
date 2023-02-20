@@ -1,0 +1,320 @@
+[
+    {
+        "name": "Plinth Cover",
+        "size": "2.4 Mtr",
+        "description": "100MM BLACK 601- 2.40MTR",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "420 Per Mtr"
+    },
+    {
+        "name": "Plinth Cover",
+        "size": "2.4 Mtr",
+        "description": "100MM SILVER 7915- 2.40MTR",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "420 Per Mtr"
+    },
+    {
+        "name": "Plinth Cover",
+        "size": "3 Mtr",
+        "description": "100MM BLACK 601- 3 MTR",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "420 Per Mtr"
+    },
+    {
+        "name": "Plinth Cover",
+        "size": "3 Mtr",
+        "description": "100MM SILVER 7915- 3 MTR",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "420 Per Mtr"
+    },
+    {
+        "name": "90 Degree",
+        "description": "Black",
+        "size": "100 MM",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "55 Per Pc"
+    },
+    {
+        "name": "90 Degree",
+        "description": "Silver",
+        "size": "100 MM",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "57 Per Pc"
+    },
+    {
+        "name": "90 Degree",
+        "description": "Grey",
+        "size": "100 MM",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "55 Per Pc"
+    },
+    {
+        "name": "Straight (180 Deg)",
+        "description": "Black",
+        "size": "100 MM",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "49 Per Pc"
+    },
+    {
+        "name": "Straight (180 Deg)",
+        "description": "Silver",
+        "size": "100 MM",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "51 Per Pc"
+    },
+    {
+        "name": "Straight (180 Deg)",
+        "description": "Grey",
+        "size": "100 MM",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "price": "49 Per Pc"
+    },
+    {
+        "name": "End Cap",
+        "description": "Black",
+        "price": "24 Per Pc",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "size": "100 MM"
+    },
+    {
+        "name": "End Cap",
+        "description": "Silver",
+        "price": "26 Per Pc",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "size": "100 MM"
+    },
+    {
+        "name": "End Cap",
+        "description": "Grey",
+        "price": "24 Per Pc",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%",
+        "size": "100 MM"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Vetro Line - Satinato",
+        "size" : "600 X 1500",
+        "price" : "94,400",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Vetro Line - Black",
+        "size" : "600 X 1500",
+        "price" : "94,400",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Vetro Line - Opti white",
+        "size" : "600 X 1500",
+        "price" : "94,400",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Vetro Line - Satinato",
+        "size" : "900 X 1500",
+        "price" : "101,800",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Vetro Line - Black",
+        "size" : "900 X 1500",
+        "price" : "101,800",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Vetro Line - Opti white",
+        "size" : "900 X 1500",
+        "price" : "101,800",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Metallic Line - Brushred S.S., 360 L",
+        "price" : "35,200",
+        "size" : "600 X 1500",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Metallic Line - Aluminium Finish, 230 L",
+        "price" : "35,200",
+        "size" : "600 X 1500",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Metallic Line - Brushred S.S., 360 L",
+        "price" : "41,500",
+        "size" : "900 X 1500",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Metallic Line - Aluminium Finish, 230 L",
+        "price" : "41,500",
+        "size" : "900 X 1500",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Silver",
+        "price" : "20,475",
+        "size" : "450 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Silver",
+        "price" : "22,575",
+        "size" : "600 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },{
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Silver",
+        "price" : "28350",
+        "size" : "900 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Anthracite Grey",
+        "price" : "20,475",
+        "size" : "450 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Anthracite Grey",
+        "price" : "22,575",
+        "size" : "600 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },{
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Anthracite Grey",
+        "price" : "28350",
+        "size" : "900 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Black",
+        "price" : "20,475",
+        "size" : "450 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Black",
+        "price" : "22,575",
+        "size" : "600 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    },
+    {
+        "name" : "Rolling Shutter",
+        "description" : "Easy Line - E23 Black",
+        "price" : "28350",
+        "size" : "900 X 1350",
+        "company": "Rehau",
+        "companyId": 2,
+        "discount": "",
+        "gst": "18%"
+    }
+]

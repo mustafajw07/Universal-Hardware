@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Winner Wicker Basket",
+        "price": "3690",
+        "size": "450 X 500 X 100",
+        "discount": "32%",
+        "gst": "5%",
+        "company": "Wicker Basket",
+        "companyId": 3,
+        "description": ""
+    },
+    {
+        "name": "Winner Wicker Basket",
+        "price": "3870",
+        "size": "450 X 500 X 150",
+        "discount": "32%",
+        "gst": "5%",
+        "company": "Wicker Basket",
+        "companyId": 3,
+        "description": ""
+    },
+    {
+        "name": "Winner Wicker Basket",
+        "price": "4050",
+        "size": "450 X 500 X 200",
+        "discount": "32%",
+        "gst": "5%",
+        "company": "Wicker Basket",
+        "companyId": 3,
+        "description": ""
+    },
+    {
+        "name": "Winner Wicker Basket",
+        "price": "4140",
+        "size": "600 X 500 X 100",
+        "discount": "32%",
+        "gst": "5%",
+        "company": "Wicker Basket",
+        "companyId": 3,
+        "description": ""
+    },
+    {
+        "name": "Winner Wicker Basket",
+        "price": "4320",
+        "size": "600 X 500 X 150",
+        "discount": "32%",
+        "gst": "5%",
+        "company": "Wicker Basket",
+        "companyId": 3,
+        "description": ""
+    },
+    {
+        "name": "Winner Wicker Basket",
+        "price": "4500",
+        "size": "600 X 500 X 200",
+        "discount": "32%",
+        "gst": "5%",
+        "company": "Wicker Basket",
+        "companyId": 3,
+        "description": ""
+    }
+]
