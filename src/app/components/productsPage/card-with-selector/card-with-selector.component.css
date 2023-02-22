@@ -1,7 +1,7 @@
 .select_component {
   display: flex;
   align-items: center;
-  height: 40px;
+  height: 30px;
   justify-content: space-between;
   background-color: #fff;
   border-radius: 8px;
@@ -12,7 +12,6 @@ select {
   background-color: transparent;
   border-radius: 8px;
   border: none;
-  padding: 8px;
+  padding: 3px 32px;
   cursor: pointer;
-  /* margin-right: 8px; */
 }
