@@ -22,6 +22,7 @@ import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsap
 import { SelectorComponent } from './components/productsPage/selector/selector.component';
 import { HeadingComponent } from './components/productsPage/heading/heading.component';
 import { ProductSectionComponent } from './components/productsPage/product-section/product-section.component';
+import { CardWithSelectorComponent } from './components/productsPage/card-with-selector/card-with-selector.component';
 
 @NgModule({
   declarations: [
@@ -38,6 +39,7 @@ import { ProductSectionComponent } from './components/productsPage/product-secti
     SelectorComponent,
     HeadingComponent,
     ProductSectionComponent,
+    CardWithSelectorComponent,
   ],
   imports: [
     BrowserModule,
