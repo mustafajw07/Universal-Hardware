@@ -1,0 +1,161 @@
+[
+    {
+        "name" : "Regular hinges",
+        "description" : "Auto closing slide on regular hinges",
+        "size" : "0 Crank",
+        "price" : "97 Mrp",
+        "discount" : "",
+        "gst" : "18 %",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Regular hinges",
+        "description" : "Auto closing slide on regular hinges",
+        "size" : "8 Crank",
+        "price" : "102 Mrp",
+        "discount" : "",
+        "gst" : "18 %",
+        "company": "Hepo",
+        "companyId" : 3
+    },
+    {
+        "name" : "Regular hinges",
+        "description" : "Auto closing slide on regular hinges",
+        "size" : "16 Crank",
+        "price" : "107 Mrp",
+        "discount" : "",
+        "gst" : "18 %",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Soft closing hinges",
+        "description" : "Auto closing slide on soft closing hinges",
+        "size" : "0 Crank",
+        "price" : "175 Mrp",
+        "discount" : "",
+        "gst" : "18 %" ,
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Soft closing hinges",
+        "description" : "Auto closing slide on soft closing hinges",
+        "size" : "180 Crank",
+        "price" : "97 Mrp",
+        "discount" : "",
+        "gst" : "18 %" ,
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Soft closing hinges",
+        "description" : "Auto closing slide on soft closing hinges",
+        "size" : "185 Crank",
+        "price" : " Mrp",
+        "discount" : "",
+        "gst" : "18 %",
+        "company": "Hepo",
+        "companyId" : 3  
+    },
+    {
+        "name" : "Gas Pump",
+        "description" : "8kg To 35kg",
+        "size" : "9 Inch",
+        "price" : "311 Mrp",
+        "discount" : "",
+        "company": "Hepo",
+        "gst" :"18 %"
+    },
+    {
+        "name" : "Gas Pump",
+        "description" : "8kg To 35kg",
+        "size" : "12 Inch",
+        "price" : "379 Mrp",
+        "discount" : "",
+        "gst" :"18 %",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Gas Pump",
+        "description" : "70Kg To 120Kg",
+        "size" : "340 mm",
+        "price" : "788 Mrp",
+        "discount" : "",
+        "gst" :"18 %",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Gas Pump",
+        "description" : "150Kg to 200Kg",
+        "size" : "340 mm",
+        "price" : "1362 Mrp",
+        "discount" : "",
+        "gst" :"18 %",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Bed Fitting",
+        "description" : "Bed Fitting Frame",
+        "size" : "1100mm",
+        "discount" : "",
+        "gst" : "18 %",
+        "price" : "3300 Mrp",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Bed Fitting",
+        "description" : "Bed Fitting Frame",
+        "size" : "1500mm",
+        "discount" : "",
+        "gst" : "18 %",
+        "price" : "3900 Mrp",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Wooden Dowel",
+        "description" : "",
+        "size" : "8.0 x 40mm",
+        "price" : "0.9 Per Pc",
+        "discount" : "",
+        "gst" : "",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "M6*34 Dowel",
+        "description" : "3 in one, PZ2 , Galvanizing",
+        "discount": "",
+        "gst" : "",
+        "price" : "2.25 Per Pc",
+        "size" : "M6 x 34",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Nylon Socket",
+        "description" : "inner M6 Hole",
+        "discount" : "",
+        "gst" : "",
+        "price" : "0.90 Per Pc",
+        "size" : "10.8 x 11",
+        "company": "Hepo",
+        "companyId" : 3 
+    },
+    {
+        "name" : "Zinc Cam",
+        "description" : "Zinc cam for 15mm panel",
+        "discount" : "",
+        "gst" : "",
+        "price" : "5.49 Per Pc",
+        "size" : "15/15",
+        "company": "Hepo",
+        "companyId" : 3
+    }
+]
