@@ -2,14 +2,16 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class ApiService {
-
-  constructor(private http :HttpClient) { }
+  constructor(private http: HttpClient) {}
 
   // Home Page
-  getAllTrendingProducts(){
-    return this.http.get('../../assets/json/HomePageTrending.json')
+  getAllTrendingProducts() {
+    return this.http.get('../../assets/json/HomePageTrending.json');
+  }
+  getKeys() {
+    return this.http.get('../../assets/json/keys.json');
   }
 }
