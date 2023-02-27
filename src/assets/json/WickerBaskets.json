@@ -6,7 +6,7 @@
         "discount": "32%",
         "gst": "5%",
         "company": "Wicker Basket",
-        "companyId": 3,
+        "companyId": 1,
         "description": ""
     },
     {
@@ -16,7 +16,7 @@
         "discount": "32%",
         "gst": "5%",
         "company": "Wicker Basket",
-        "companyId": 3,
+        "companyId": 1,
         "description": ""
     },
     {
@@ -26,7 +26,7 @@
         "discount": "32%",
         "gst": "5%",
         "company": "Wicker Basket",
-        "companyId": 3,
+        "companyId": 1,
         "description": ""
     },
     {
@@ -36,7 +36,7 @@
         "discount": "32%",
         "gst": "5%",
         "company": "Wicker Basket",
-        "companyId": 3,
+        "companyId": 1,
         "description": ""
     },
     {
@@ -46,7 +46,7 @@
         "discount": "32%",
         "gst": "5%",
         "company": "Wicker Basket",
-        "companyId": 3,
+        "companyId": 1,
         "description": ""
     },
     {
@@ -56,7 +56,7 @@
         "discount": "32%",
         "gst": "5%",
         "company": "Wicker Basket",
-        "companyId": 3,
+        "companyId": 1,
         "description": ""
     }
 ]

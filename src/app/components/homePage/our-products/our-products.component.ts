@@ -18,6 +18,7 @@ export class OurProductsComponent implements OnInit {
     this.getAllHepoProducts();
     this.getAllRehauProducts();
     this.getAllwickerProducts();
+    this.getAllEverydayProducts();
   }
 
   getAllHepoProducts(){
@@ -35,7 +36,7 @@ export class OurProductsComponent implements OnInit {
       this.rehau.push(res[21]);
       this.rehau.push(res[7]);
       this.rehau.push(res[15]);
-    })
+    });
   }
 
   getAllwickerProducts(){
@@ -44,7 +45,16 @@ export class OurProductsComponent implements OnInit {
       this.wicker.push(res[2]);
       this.wicker.push(res[4]);
       this.wicker.push(res[5]);
-    })
+    });
+  }
+
+  getAllEverydayProducts(){
+    this.api.getAllEverydayProducts().subscribe((res :any) => {
+      this.everyday.push(res[0]);
+      this.everyday.push(res[2]);
+      this.everyday.push(res[4]);
+      this.everyday.push(res[5]);
+    });
   }
 
 }

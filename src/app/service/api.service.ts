@@ -12,6 +12,11 @@ export class ApiService {
     return this.http.get('../../assets/json/Hepo.json');
   }
 
+  // Get All Everday Products
+  getAllEverydayProducts() {
+    return this.http.get('../../assets/json/Everyday.json');
+  }
+
   // Get All Rehau Products
   getAllRehauProducts() {
     return this.http.get('../../assets/json/Rehau.json');
