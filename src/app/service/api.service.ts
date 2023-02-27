@@ -2,40 +2,33 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class ApiService {
-  
-  constructor(private http :HttpClient) { }
+  constructor(private http: HttpClient) {}
 
-  // Get All Hepo Products
-  getAllHepoProducts(){
-    return this.http.get('../../assets/json/Hepo.json');
-  }
-
-  // Get All Rehau Products
-  getAllRehauProducts(){
-    return this.http.get('../../assets/json/Rehau.json');
+  // Home Page
+  getAllTrendingProducts() {
+    return this.http.get('../../assets/json/HomePageTrending.json');
   }
 
   // Get All wicker Products
-  getAllWickerProducts(){
+  getAllWickerProducts() {
     return this.http.get('../../assets/json/WickerBaskets.json');
   }
-  
+
   // Get All flora Products
-  getAllFloraProducts(){
+  getAllFloraProducts() {
     return this.http.get('../../assets/json/Flora.json');
   }
 
   // Get All Palladium Products
-  getAllPalladiumProducts(){
+  getAllPalladiumProducts() {
     return this.http.get('../../assets/json/Palladium.json');
   }
 
   // Get All Telescopic Channel
-  getAllTelescopicChannel(){
+  getAllTelescopicChannel() {
     return this.http.get('../../assets/json/TelescopicChannel.json');
   }
-
 }
