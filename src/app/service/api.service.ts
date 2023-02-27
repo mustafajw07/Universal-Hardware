@@ -11,6 +11,18 @@ export class ApiService {
   getAllTrendingProducts() {
     return this.http.get('../../assets/json/HomePageTrending.json');
   }
+  getKeys() {
+    return this.http.get('../../assets/json/keys.json');
+  }
+  // Get All Hepo Products
+  getAllHepoProducts() {
+    return this.http.get('../../assets/json/Hepo.json');
+  }
+
+  // Get All Rehau Products
+  getAllRehauProducts() {
+    return this.http.get('../../assets/json/Rehau.json');
+  }
 
   // Get All wicker Products
   getAllWickerProducts() {

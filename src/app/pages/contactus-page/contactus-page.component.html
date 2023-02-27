@@ -4,13 +4,19 @@
     <div class="form">
       <h4>GET IN TOUCH</h4>
       <h2 class="form-headline">Send us a message</h2>
-      <form id="submit-form" action="">
+      <form
+        id="submit-form"
+        action=""
+        [formGroup]="contactForm"
+        (submit)="sendEmail($event)"
+      >
         <p>
           <input
             id="name"
             class="form-input"
             type="text"
             placeholder="Your Name*"
+            formControlName="name"
           />
           <small class="name-error"></small>
         </p>
@@ -20,6 +26,7 @@
             class="form-input"
             type="email"
             placeholder="Your Email*"
+            formControlName="email"
           />
           <small class="name-error"></small>
         </p>
@@ -30,6 +37,7 @@
             type="text"
             placeholder="Subject*"
             required
+            formControlName="subject"
           />
           <small></small>
         </p>
@@ -41,6 +49,7 @@
             rows="7"
             placeholder="Your Message*"
             required
+            formControlName="message"
           ></textarea>
           <small></small>
         </p>
