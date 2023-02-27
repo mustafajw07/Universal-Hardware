@@ -4,7 +4,7 @@
         "description" : "Auto closing slide on regular hinges",
         "size" : "0 Crank",
         "price" : "97 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
         "companyId" : 3 
@@ -14,7 +14,7 @@
         "description" : "Auto closing slide on regular hinges",
         "size" : "8 Crank",
         "price" : "102 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
         "companyId" : 3
@@ -24,7 +24,7 @@
         "description" : "Auto closing slide on regular hinges",
         "size" : "16 Crank",
         "price" : "107 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
         "companyId" : 3 
@@ -34,7 +34,7 @@
         "description" : "Auto closing slide on soft closing hinges",
         "size" : "0 Crank",
         "price" : "175 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %" ,
         "company": "Hepo",
         "companyId" : 3 
@@ -44,7 +44,7 @@
         "description" : "Auto closing slide on soft closing hinges",
         "size" : "180 Crank",
         "price" : "97 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %" ,
         "company": "Hepo",
         "companyId" : 3 
@@ -54,7 +54,7 @@
         "description" : "Auto closing slide on soft closing hinges",
         "size" : "185 Crank",
         "price" : " Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
         "companyId" : 3  
@@ -64,7 +64,7 @@
         "description" : "8kg To 35kg",
         "size" : "9 Inch",
         "price" : "311 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "company": "Hepo",
         "gst" :"18 %"
     },
@@ -73,7 +73,7 @@
         "description" : "8kg To 35kg",
         "size" : "12 Inch",
         "price" : "379 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" :"18 %",
         "company": "Hepo",
         "companyId" : 3 
@@ -83,7 +83,7 @@
         "description" : "70Kg To 120Kg",
         "size" : "340 mm",
         "price" : "788 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" :"18 %",
         "company": "Hepo",
         "companyId" : 3 
@@ -93,7 +93,7 @@
         "description" : "150Kg to 200Kg",
         "size" : "340 mm",
         "price" : "1362 Mrp",
-        "discount" : "",
+        "discount" : "40%",
         "gst" :"18 %",
         "company": "Hepo",
         "companyId" : 3 
@@ -102,7 +102,7 @@
         "name" : "Bed Fitting",
         "description" : "Bed Fitting Frame",
         "size" : "1100mm",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %",
         "price" : "3300 Mrp",
         "company": "Hepo",
@@ -112,7 +112,7 @@
         "name" : "Bed Fitting",
         "description" : "Bed Fitting Frame",
         "size" : "1500mm",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "18 %",
         "price" : "3900 Mrp",
         "company": "Hepo",
@@ -123,7 +123,7 @@
         "description" : "",
         "size" : "8.0 x 40mm",
         "price" : "0.9 Per Pc",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "",
         "company": "Hepo",
         "companyId" : 3 
@@ -141,7 +141,7 @@
     {
         "name" : "Nylon Socket",
         "description" : "inner M6 Hole",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "",
         "price" : "0.90 Per Pc",
         "size" : "10.8 x 11",
@@ -151,7 +151,7 @@
     {
         "name" : "Zinc Cam",
         "description" : "Zinc cam for 15mm panel",
-        "discount" : "",
+        "discount" : "40%",
         "gst" : "",
         "price" : "5.49 Per Pc",
         "size" : "15/15",
