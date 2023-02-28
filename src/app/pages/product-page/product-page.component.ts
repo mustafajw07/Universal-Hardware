@@ -6,10 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./product-page.component.css']
 })
 export class ProductPageComponent implements OnInit {
-
+  id!: number;
   constructor() { }
 
   ngOnInit(): void {
   }
-
+  selected(e : any){
+    this.id = e;
+  }
 }

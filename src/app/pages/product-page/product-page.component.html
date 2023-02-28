@@ -2,17 +2,12 @@
 <app-heading></app-heading>
 <div class="products-section">
   <div class="selector">
-    <h2>Company</h2>
-    <app-selector></app-selector>
+    <app-selector (updateSelected)="selected($event)"></app-selector>
   </div>
   <div class="company-info">
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero quia
-    assumenda quis repudiandae distinctio? Cupiditate consequatur rerum possimus
-    explicabo quam odit cumque dolor incidunt, officia blanditiis eligendi
-    nostrum ex alias!
+    <app-company-info  [id]="id"></app-company-info>
   </div>
-  <h2>Company Products</h2>
-  <app-product-section></app-product-section>
+  <app-product-section [id]="id"></app-product-section>
+  <!-- <app-card-with-selector [id]="id"></app-card-with-selector> -->
 </div>
-<app-card-with-selector></app-card-with-selector>
 <app-footer></app-footer>
