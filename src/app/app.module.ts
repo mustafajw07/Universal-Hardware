@@ -14,6 +14,8 @@ import { ProductPageComponent } from './pages/product-page/product-page.componen
 import { HeaderComponent } from './partials/header/header.component';
 import { FooterComponent } from './partials/footer/footer.component';
 
+import { NgxPaginationModule } from 'ngx-pagination';
+
 // Components
 import { BannerComponent } from './components/homePage/banner/banner.component';
 import { CompanyComponent } from './components/homePage/company/company.component';
@@ -48,6 +50,7 @@ import { CompanyInfoComponent } from './components/productsPage/company-info/com
     AppRoutingModule,
     ReactiveFormsModule,
     HttpClientModule,
+    NgxPaginationModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
