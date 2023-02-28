@@ -21,6 +21,10 @@ export class ApiService {
   getAllRehauProducts() {
     return this.http.get('../../assets/json/Rehau.json');
   }
+  getKeys() {
+    return this.http.get('../../assets/json/keys.json');
+  }
+  // Get All Hepo Products
 
   // Get All wicker Products
   getAllWickerProducts() {
