@@ -23,6 +23,7 @@ import { SelectorComponent } from './components/productsPage/selector/selector.c
 import { HeadingComponent } from './components/productsPage/heading/heading.component';
 import { ProductSectionComponent } from './components/productsPage/product-section/product-section.component';
 import { CardWithSelectorComponent } from './components/productsPage/card-with-selector/card-with-selector.component';
+import { CompanyInfoComponent } from './components/productsPage/company-info/company-info.component';
 
 @NgModule({
   declarations: [
@@ -40,6 +41,7 @@ import { CardWithSelectorComponent } from './components/productsPage/card-with-s
     HeadingComponent,
     ProductSectionComponent,
     CardWithSelectorComponent,
+    CompanyInfoComponent,
   ],
   imports: [
     BrowserModule,

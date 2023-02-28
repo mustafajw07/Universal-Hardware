@@ -1,121 +1,49 @@
 <div class="container">
   <h3 class="heading my-5"><span>Our Products</span></h3>
   <div class="card-section">
-    <div class="card-view">
+    <div class="card-view" *ngFor="let product of wicker">
       <img
         src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/9/2/9290751_3.jpg"
         alt=""
       />
     </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
-        alt=""
-      />
-    </div>
   </div>
   <div class="view-btn">
-    <button id="1" (click)="onClick($event)">
+    <button (click)="onClick(1)">
       View Wicker Basket products
     </button>
   </div>
   <div class="card-section">
-    <div class="card-view">
+    <div class="card-view" *ngFor="let product of rehau">
       <img
         src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/9/2/9290751_3.jpg"
         alt=""
       />
     </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
-        alt=""
-      />
-    </div>
   </div>
   <div class="view-btn">
-    <button id="2" (click)="onClick($event)">View Rehau products</button>
+    <button (click)="onClick(2)">View Rehau products</button>
   </div>
   <div class="card-section">
-    <div class="card-view">
+    <div class="card-view" *ngFor="let product of hepo">
       <img
         src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/9/2/9290751_3.jpg"
         alt=""
       />
     </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
-        alt=""
-      />
-    </div>
   </div>
   <div class="view-btn">
-    <button id="3" (click)="onClick($event)">View Hepo Products</button>
+    <button (click)="onClick(3)">View Hepo Products</button>
   </div>
   <div class="card-section">
-    <div class="card-view">
+    <div class="card-view" *ngFor="let product of everyday">
       <img
         src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/9/2/9290751_3.jpg"
         alt=""
       />
     </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-        alt=""
-      />
-    </div>
-    <div class="card-view">
-      <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
-        alt=""
-      />
-    </div>
   </div>
   <div class="view-btn">
-    <button id="7" (click)="onClick($event)">View Palladium products</button>
+    <button (click)="onClick(7)">View Everyday products</button>
   </div>
 </div>

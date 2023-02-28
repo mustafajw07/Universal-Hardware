@@ -1,16 +1,13 @@
 
 <label class="select" for="slct">
-    <select id="slct" required="required">
-      <option value="" disabled="disabled" selected="selected">Select Products</option>
-      <option value="#">Hepo</option>
-      <option value="#">Rehau</option>
-      <option value="#">Olive</option>
-      <option value="#">Wicker Baskets</option>
-    </select>
-    <svg>
-      <use xlink:href="#select-arrow-down"></use>
-    </svg>
-  </label>
+  <select id="slct" required="required" (change)="selected($event)">
+    <option value="" selected="selected">Select Company</option>
+    <option value="{{company.id}}" *ngFor="let company of companies">{{company.name}}</option>
+  </select>
+  <svg>
+    <use xlink:href="#select-arrow-down"></use>
+  </svg>
+</label>
   <!-- SVG Sprites-->
   <svg class="sprites">
     <symbol id="select-arrow-down" viewbox="0 0 10 6">

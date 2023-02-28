@@ -7,6 +7,12 @@ import { Injectable } from '@angular/core';
 export class ApiService {
   constructor(private http: HttpClient) {}
 
+
+  // Get All Companies
+  getAllCompanies() {
+    return this.http.get('../../assets/json/Company.json');
+  }
+
   // Get All Hepo Products
   getAllHepoProducts() {
     return this.http.get('../../assets/json/Hepo.json');
