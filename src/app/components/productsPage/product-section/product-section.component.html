@@ -1,7 +1,13 @@
 <section>
   <div class="container py-4">
     <div class="row justify-content-center mb-4">
-      <div class="col-md-6 col-lg-3 col-xs-4 mb-3" *ngFor="let product of productsList">
+      <div
+        class="col-md-6 col-lg-3 col-xs-4 mb-3"
+        *ngFor="
+          let product of productsList
+            | paginate : { itemsPerPage: 5, currentPage: pageNumber }
+        "
+      >
         <div class="card text-black">
           <img
             src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
@@ -35,3 +41,6 @@
     </div>
   </div>
 </section>
+<div class="pagination">
+  <pagination-controls (pageChange)="pageNumber = $event"></pagination-controls>
+</div>
