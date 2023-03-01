@@ -3,7 +3,7 @@
   <div class="card-section">
     <div class="card-view" *ngFor="let product of wicker">
       <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/9/2/9290751_3.jpg"
+        src={{product.image}}
         alt=""
       />
     </div>
@@ -27,7 +27,7 @@
   <div class="card-section">
     <div class="card-view" *ngFor="let product of hepo">
       <img
-        src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/9/2/9290751_3.jpg"
+        src={{product.image}}
         alt=""
       />
     </div>

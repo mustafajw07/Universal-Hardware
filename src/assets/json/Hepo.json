@@ -7,7 +7,8 @@
         "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
     },
     {
         "name" : "Regular hinges",
@@ -17,7 +18,8 @@
         "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
-        "companyId" : 3
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
     },
     {
         "name" : "Regular hinges",
@@ -27,7 +29,8 @@
         "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3 ,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
     },
     {
         "name" : "Soft closing hinges",
@@ -37,7 +40,8 @@
         "discount" : "40%",
         "gst" : "18 %" ,
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
     },
     {
         "name" : "Soft closing hinges",
@@ -47,7 +51,8 @@
         "discount" : "40%",
         "gst" : "18 %" ,
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
     },
     {
         "name" : "Soft closing hinges",
@@ -57,7 +62,8 @@
         "discount" : "40%",
         "gst" : "18 %",
         "company": "Hepo",
-        "companyId" : 3  
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
     },
     {
         "name" : "Gas Pump",
@@ -66,7 +72,8 @@
         "price" : "311 Mrp",
         "discount" : "40%",
         "company": "Hepo",
-        "gst" :"18 %"
+        "gst" :"18 %",
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
     },
     {
         "name" : "Gas Pump",
@@ -76,7 +83,8 @@
         "discount" : "40%",
         "gst" :"18 %",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
     },
     {
         "name" : "Gas Pump",
@@ -86,7 +94,8 @@
         "discount" : "40%",
         "gst" :"18 %",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
     },
     {
         "name" : "Gas Pump",
@@ -96,7 +105,8 @@
         "discount" : "40%",
         "gst" :"18 %",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
     },
     {
         "name" : "Bed Fitting",
@@ -106,7 +116,8 @@
         "gst" : "18 %",
         "price" : "3300 Mrp",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3 ,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/c/o/comm_1.jpg"
     },
     {
         "name" : "Bed Fitting",
@@ -116,7 +127,8 @@
         "gst" : "18 %",
         "price" : "3900 Mrp",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/c/o/comm_1.jpg"
     },
     {
         "name" : "Wooden Dowel",
@@ -126,7 +138,8 @@
         "discount" : "40%",
         "gst" : "",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3 ,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/a/a/aa--wooden-dowel.jpg"
     },
     {
         "name" : "M6*34 Dowel",
@@ -136,7 +149,8 @@
         "price" : "2.25 Per Pc",
         "size" : "M6 x 34",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3 ,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/y/-/y--dowel.jpg"
     },
     {
         "name" : "Nylon Socket",
@@ -146,7 +160,8 @@
         "price" : "0.90 Per Pc",
         "size" : "10.8 x 11",
         "company": "Hepo",
-        "companyId" : 3 
+        "companyId" : 3 ,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/z/-/z-socket.jpg"
     },
     {
         "name" : "Zinc Cam",
@@ -156,6 +171,7 @@
         "price" : "5.49 Per Pc",
         "size" : "15/15",
         "company": "Hepo",
-        "companyId" : 3
+        "companyId" : 3,
+        "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/c/t/ct.jpg"
     }
 ]

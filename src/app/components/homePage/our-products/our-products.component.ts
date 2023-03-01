@@ -28,7 +28,7 @@ export class OurProductsComponent {
   getAllHepoProducts() {
     this.api.getAllHepoProducts().subscribe((res: any) => {
       this.hepo.push(res[0]);
-      this.hepo.push(res[3]);
+      this.hepo.push(res[12]);
       this.hepo.push(res[6]);
       this.hepo.push(res[10]);
     });
@@ -46,8 +46,8 @@ export class OurProductsComponent {
   getAllwickerProducts() {
     this.api.getAllWickerProducts().subscribe((res: any) => {
       this.wicker.push(res[0]);
+      this.wicker.push(res[1]);
       this.wicker.push(res[2]);
-      this.wicker.push(res[4]);
       this.wicker.push(res[5]);
     });
   }

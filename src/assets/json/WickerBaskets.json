@@ -1,62 +1,68 @@
 [
     {
-        "name": "Winner Wicker Basket",
+        "name": "Wicker Basket",
         "price": "3690",
         "size": "450 X 500 X 100",
         "discount": "32%",
         "gst": "5%",
-        "company": "Wicker Basket",
+       "company": "Winner",
         "companyId": 1,
-        "description": ""
+        "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
+        "image" : "https://5.imimg.com/data5/NS/RT/LI/SELLER-4542862/wicker-basket-pvc-500x500.jpg"
     },
     {
-        "name": "Winner Wicker Basket",
+        "name": "Wicker Basket",
         "price": "3870",
         "size": "450 X 500 X 150",
         "discount": "32%",
         "gst": "5%",
-        "company": "Wicker Basket",
+       "company": "Winner",
         "companyId": 1,
-        "description": ""
+        "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
+        "image" : "https://5.imimg.com/data5/JD/WK/RA/SELLER-4542862/wicker-basket-pvc-500x500.jpg"
     },
     {
-        "name": "Winner Wicker Basket",
+        "name": "Wicker Basket",
         "price": "4050",
         "size": "450 X 500 X 200",
         "discount": "32%",
         "gst": "5%",
-        "company": "Wicker Basket",
+       "company": "Winner",
         "companyId": 1,
-        "description": ""
+        "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2021/3/AA/NN/PE/4542862/winner-wicker-basket-500x500.jpg"
     },
     {
-        "name": "Winner Wicker Basket",
+        "name": "Wicker Basket",
         "price": "4140",
         "size": "600 X 500 X 100",
         "discount": "32%",
         "gst": "5%",
-        "company": "Wicker Basket",
+       "company": "Winner",
         "companyId": 1,
-        "description": ""
+        "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2021/8/VP/IT/BB/4542862/winner-wicker-basket-500x500.jpeg"
     },
     {
-        "name": "Winner Wicker Basket",
+        "name": "Wicker Basket",
         "price": "4320",
         "size": "600 X 500 X 150",
         "discount": "32%",
         "gst": "5%",
-        "company": "Wicker Basket",
+       "company": "Winner",
         "companyId": 1,
-        "description": ""
+        "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
+        "image" : "https://5.imimg.com/data5/NS/RT/LI/SELLER-4542862/wicker-basket-pvc-500x500.jpg"
     },
     {
-        "name": "Winner Wicker Basket",
+        "name": "Wicker Basket",
         "price": "4500",
         "size": "600 X 500 X 200",
         "discount": "32%",
         "gst": "5%",
-        "company": "Wicker Basket",
+        "company": "Winner",
         "companyId": 1,
-        "description": ""
+        "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
+        "image" : "https://5.imimg.com/data5/NS/RT/LI/SELLER-4542862/wicker-basket-pvc-500x500.jpg"
     }
 ]
