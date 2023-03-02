@@ -13,6 +13,11 @@ export class ApiService {
     return this.http.get('../../assets/json/Company.json');
   }
 
+  // Get All Products
+  getAllProducts(){
+    return this.http.get('../../assets/json/AllProduct.json');
+  }
+
   // Get All Hepo Products
   getAllHepoProducts() {
     return this.http.get('../../assets/json/Hepo.json');
@@ -50,5 +55,15 @@ export class ApiService {
   // Get All Telescopic Channel
   getAllTelescopicChannel() {
     return this.http.get('../../assets/json/TelescopicChannel.json');
+  }
+
+  // Get All Godrej Products
+  getAllGodrejProducts(){
+    return this.http.get('../../assets/json/Godrej.json');
+  }
+
+  // Get All Europa Products
+  getAllEuropaProducts(){
+    return this.http.get('../../assets/json/Europa.json');
   }
 }
