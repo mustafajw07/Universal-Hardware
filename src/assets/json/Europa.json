@@ -1,0 +1,79 @@
+[
+  {
+    "name": "NIGHT LATCH",
+    "price": "1630",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "NIGHT LATCH INSIDE (IV FINISH)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/nightin.d27ef8c46f0a38adb998.png"
+  },
+  {
+    "name": "MAIN DOOR LOCK",
+    "price": "2200",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "KNOB ON INSIDE 2 DEADBOLTS & 1 LATCHBOLT (CHROME FINISH)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/maindoor.10c93d98bc14027c161e.png"
+  },
+  {
+    "name": "HEXABOLT",
+    "price": "6645",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "HEXABOLT WITH 5 DEADBOLT & 1 LATCHBOLT + REVERSIBLE PLATE HANDLE",
+    "image": "https://www.luckystarenterprise.co.in/static/media/hexa.d58ebaba816a10ef0ed4.png"
+  },
+  {
+    "name": "HEXABOLT",
+    "price": "5050",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "HEXABOLT WITH 5 DEADBOLT & 1 LATCHBOLT",
+    "image": "https://www.luckystarenterprise.co.in/static/media/hexa2.a2b82e4b2f6c60725240.png"
+  },
+  {
+    "name": "DISC PAD LOCK",
+    "price": "2430",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "TWIN PACK + COMMON KEY (SS)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/diskpadss.48ced09f4ce3f6cd93dc.png"
+  },
+  {
+    "name": "DISC PAD LOCK",
+    "price": "2430",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "TWIN PACK + COMMON KEY",
+    "image": "https://www.luckystarenterprise.co.in/static/media/diskpadab.299a4ae3561ef9025f1f.png"
+  },
+  {
+    "name": "CYLINDRICAL LOCK",
+    "price": " 1485",
+    "size": "",
+    "discount": "20% ",
+    "gst": "18%",
+    "company": " EUROPA",
+    "companyId": 9,
+    "description": "LOCK / UNCLOCK ON BOTH SIDE",
+    "image": "https://www.luckystarenterprise.co.in/static/media/clock.9bf769ebfab2a59f29a1.png"
+  }
+]

@@ -1,6 +1,10 @@
 .bgcolor {
-  background-color: #DA0037;
+  /* background-color: #DA0037; */
+  background-color: #e34234;
 }
 .bgcolor:hover {
-  background-color: #DA0037;
+  background-color: #da0037;
+}
+.clr {
+  color: #f3e8ea !important;
 }
