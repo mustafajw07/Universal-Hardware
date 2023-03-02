@@ -4,3 +4,6 @@
   display: flex;
   justify-content: right;
 }
+.card {
+  height: 500px;
+}

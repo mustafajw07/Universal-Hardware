@@ -1,11 +1,13 @@
 footer {
-  background-color: #ddd;
+  /* background-color: #ddd; */
+  background-color: #faf9f6;
   padding-top: 1px;
   border-top: 3px solid #171717;
 }
 .copyright {
-  background-color: #da0037;
-  color: #ddd;
+  /* background-color: #da0037; */
+  background-color: #e34234;
+  color: white;
 }
 a {
   text-decoration: none;
