@@ -6,7 +6,7 @@ import { Component, Input, OnChanges, OnInit } from '@angular/core';
   styleUrls: ['./company-info.component.css']
 })
 export class CompanyInfoComponent implements OnChanges {
-  @Input() id! : number;
+  @Input() id!: number;
   company = "All";
   constructor() { }
 
@@ -32,6 +32,12 @@ export class CompanyInfoComponent implements OnChanges {
         break;
       case 7:
         this.company = "Everyday";
+        break;
+      case 8:
+        this.company = "Godrej";
+        break;
+      case 9:
+        this.company = "Europa";
         break;
       default:
         this.company = "All"
