@@ -5,7 +5,7 @@
         "size" : "0 Crank",
         "price" : "97 Mrp",
         "discount" : "40%",
-        "gst" : "18 %",
+        "gst" : "18%",
         "company": "Hepo",
         "companyId" : 3,
         "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
@@ -16,7 +16,7 @@
         "size" : "8 Crank",
         "price" : "102 Mrp",
         "discount" : "40%",
-        "gst" : "18 %",
+        "gst" : "18%",
         "company": "Hepo",
         "companyId" : 3,
         "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
@@ -27,7 +27,7 @@
         "size" : "16 Crank",
         "price" : "107 Mrp",
         "discount" : "40%",
-        "gst" : "18 %",
+        "gst" : "18%",
         "company": "Hepo",
         "companyId" : 3 ,
         "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
@@ -60,7 +60,7 @@
         "size" : "185 Crank",
         "price" : " Mrp",
         "discount" : "40%",
-        "gst" : "18 %",
+        "gst" : "18%",
         "company": "Hepo",
         "companyId" : 3,
         "image" : "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
@@ -113,7 +113,7 @@
         "description" : "Bed Fitting Frame",
         "size" : "1100mm",
         "discount" : "40%",
-        "gst" : "18 %",
+        "gst" : "18%",
         "price" : "3300 Mrp",
         "company": "Hepo",
         "companyId" : 3 ,
@@ -124,7 +124,7 @@
         "description" : "Bed Fitting Frame",
         "size" : "1500mm",
         "discount" : "40%",
-        "gst" : "18 %",
+        "gst" : "18%",
         "price" : "3900 Mrp",
         "company": "Hepo",
         "companyId" : 3,

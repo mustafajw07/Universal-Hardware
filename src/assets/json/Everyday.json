@@ -6,7 +6,8 @@
         "price" : "14284/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPPOSB650600-954x1040.jpg"
     },
     {
         "name" : "TANDEM PANTRY",
@@ -15,7 +16,8 @@
         "price" : "18781/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPPO1FSB1250450-954x1040.jpg"
     },
     {
         "name" : "TANDEM PANTRY",
@@ -24,7 +26,8 @@
         "price" : "21645/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPPOSB1850450-954x1040.png"
     },
     {
         "name" : "LARDER PULL OUT",
@@ -33,7 +36,8 @@
         "price" : "17799/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ELPOSB1250450-954x1040.png"
     },
     {
         "name" : "LARDER PULL OUT",
@@ -42,7 +46,8 @@
         "price" : "20561/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ELPOSB1850300-954x1040.png"
     },
     {
         "name" : "CORNER PULL OUT",
@@ -51,7 +56,8 @@
         "price" : "18449/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECPOSB900-954x1040.png "
     },
     {
         "name" : "BLIND CORNER",
@@ -60,7 +66,8 @@
         "price" : "18185/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EBCPOSB700-2-954x1040.png"
     },
     {
         "name" : "CAROUSEL CORNER",
@@ -69,7 +76,8 @@
         "price" : "11983/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECCSB750-954x1040.png"
     },
     {
         "name" : "UNDER SINK",
@@ -78,7 +86,8 @@
         "price" : "3049/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Under-Sink-Pullout-SB-Assy-68-954x1040.jpg"
     },
     {
         "name" : "PLATE INSERT",
@@ -87,7 +96,8 @@
         "price" : "427/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Under-Sink-Pullout-SB-Assy-68-954x1040.jpg"
     },
     {
         "name" : "CUP & SAUCER INSERT",
@@ -96,7 +106,8 @@
         "price" : "331/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Cup-Saucer-Insert-954x1040.png"
     },
     {
         "name" : "BIG PLATE INSERT",
@@ -105,7 +116,8 @@
         "price" : "442/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Big-Plate-Insert-954x1040.png"
     },
     {
         "name" : "DEE TRAY CORNER",
@@ -114,7 +126,8 @@
         "price" : "8826/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDTCWB750-954x1040.png"
     },
     {
         "name" : "CAROUSEL CORNER",
@@ -123,7 +136,8 @@
         "price" : "11898/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECCWB750-954x1040.png"
     },
     {
         "name" : "DOUBLE STOREY",
@@ -132,7 +146,8 @@
         "price" : "2125/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDPO430250WB-954x1040.png"
     },
     {
         "name" : "TRIPLE STOREY",
@@ -141,7 +156,8 @@
         "price" : "3067/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPO530250WB-954x1040.png"
     },
     {
         "name" : "DRAWER BASKET WB",
@@ -150,7 +166,8 @@
         "price" : "1760/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDBWB-C0000-954x1040.png"
     },
     {
         "name" : "DRAWER SINK BASKET",
@@ -159,7 +176,8 @@
         "price" : "4402/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDSBWB15900_01-954x1040.png"
     },
     {
         "name" : "GLASS AND PLATE RACK",
@@ -168,7 +186,8 @@
         "price" : "1531/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EWCGRPRWB900-954x1040.png"
     },
     {
         "name" : "WINE GLASS HOLDER",
@@ -177,7 +196,8 @@
         "price" : "323/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECGH2L-954x1040.jpg"
     },
     {
         "name" : "CABINET SPICE RACK",
@@ -186,7 +206,8 @@
         "price" : "2460/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Cabinet-Door-Spice-Rack-WB-954x1040.jpg"
     },
     {
         "name" : "MULTI FUNCTIONAL RACK",
@@ -195,7 +216,8 @@
         "price" : "592/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Multi-Purpose-Rack-WB-954x1040.png"
     },
     {
         "name" : "DETERGENT RACK",
@@ -204,6 +226,7 @@
         "price" : "1142/-",
         "discount" : "35%",
         "companyId" : 7,
-        "gst" : "12%"
+        "gst" : "12%",
+        "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Detergent-Rack-954x1040.png"
     }
 ]
