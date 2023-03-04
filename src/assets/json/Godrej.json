@@ -1,0 +1,90 @@
+[
+  {
+    "name": "NAV-TAL LOCK",
+    "price": "860",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "NAV-TAL 7 LEVERS HARDENED (4 KEYS)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/navtal.cfd7b7827459aa8664bc.png"
+  },
+  {
+    "name": "TWINBOLT",
+    "price": "2890",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "ULTRA XL+ TWINBOLT 1CK AB",
+    "image": "https://www.luckystarenterprise.co.in/static/media/rimin.c124840a184c13590bc0.png"
+  },
+  {
+    "name": "TRIBOLT",
+    "price": "3800",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "ULTRA XL+ TRIBOLT 1CK AB",
+    "image": "https://www.luckystarenterprise.co.in/static/media/rimout.7f206d71827b86363995.png"
+  },
+  {
+    "name": "RIM LOCK",
+    "price": "1820",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "RIM LOCK 1CK (INSIDE OPENING)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/twinab.74b2f3db913d401723ba.png"
+  },
+  {
+    "name": "RIM LOCK",
+    "price": "1800",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "RIM LOCK 1CK (OUTSIDE OPENING)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/triab.4d1da5470ab04e4ced0e.png"
+  },
+  {
+    "name": "NIGHT LATCH",
+    "price": "1610",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "PREMIUM NIGHT LATCH - BRUSHED STEEL (INSIDE OPENING)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/nightin.46826dc5b906456e18f9.png"
+  },
+  {
+    "name": "NIGHT LATCH",
+    "price": "1590",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "PREMIUM NIGHT LATCH - BRUSHED STEEL (OUTSIDE OPENING)",
+    "image": "https://www.luckystarenterprise.co.in/static/media/nightin.46826dc5b906456e18f9.png"
+  },
+  {
+    "name": "MULTI PURPOSE LOCK",
+    "price": "250",
+    "size": "",
+    "discount": "35%",
+    "gst": "18%",
+    "company": " Godrej",
+    "companyId": 8,
+    "description": "MULTI PURPOSE LOCK WITH REVERSIBLE KEY",
+    "image": "https://www.luckystarenterprise.co.in/static/media/multi.f88cba72855b920ed3a6.png"
+  }
+]

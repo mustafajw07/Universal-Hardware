@@ -14,6 +14,8 @@ import { ProductPageComponent } from './pages/product-page/product-page.componen
 import { HeaderComponent } from './partials/header/header.component';
 import { FooterComponent } from './partials/footer/footer.component';
 
+import { NgxPaginationModule } from 'ngx-pagination';
+
 // Components
 import { BannerComponent } from './components/homePage/banner/banner.component';
 import { CompanyComponent } from './components/homePage/company/company.component';
@@ -22,6 +24,8 @@ import { WhatsappBtnComponent } from './components/homePage/whatsapp-btn/whatsap
 import { SelectorComponent } from './components/productsPage/selector/selector.component';
 import { HeadingComponent } from './components/productsPage/heading/heading.component';
 import { ProductSectionComponent } from './components/productsPage/product-section/product-section.component';
+import { CardWithSelectorComponent } from './components/productsPage/card-with-selector/card-with-selector.component';
+import { CompanyInfoComponent } from './components/productsPage/company-info/company-info.component';
 
 @NgModule({
   declarations: [
@@ -38,12 +42,15 @@ import { ProductSectionComponent } from './components/productsPage/product-secti
     SelectorComponent,
     HeadingComponent,
     ProductSectionComponent,
+    CardWithSelectorComponent,
+    CompanyInfoComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
     HttpClientModule,
+    NgxPaginationModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

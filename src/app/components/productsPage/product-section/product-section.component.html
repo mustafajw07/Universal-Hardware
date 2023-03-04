@@ -1,472 +1,77 @@
-<section>
-    <div class="container py-4">
-      <div class="row justify-content-center mb-4">
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
+<div class="container ">
+  <div class="row justify-content-center mb-5">
+    <div
+      class="card col-md-6 col-lg-4 col-xs-4 mb-5 mx-2"
+      *ngFor="
+        let product of productsList
+          | paginate : { itemsPerPage: 8, currentPage: pageNumber }
+      "
+    >
+      <div class="card-header">
+        <img src="{{ product.image }}" class="card-img-top" alt="" />
+      </div>
+      <div class="card-body">
+        <span class="tag tag-teal">{{ product.company }}</span>
+        <h3 class="name">{{ product.name }}</h3>
+        <span class="text-center size"> {{ product.size }}</span>
+
+        <p>
+          {{ product.description }}
+        </p>
+
+        <div class="user">
+          <div class="user-info">
+            <!-- <h3 class="text-center">MRP:- {{ product.price }}/-</h3> -->
+            <a class="btn text-center">MRP:- {{ product.price }}/-</a>
+            <h6>Discount {{ product.discount }}</h6>
+            <h6>GST {{ product.gst }}</h6>
           </div>
         </div>
       </div>
     </div>
-</section>
-<section>
-    <div class="container py-4">
-      <div class="row justify-content-center mb-4">
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
+  </div>
+</div>
+
+<!-- <section>
+
+  <div class="container py-4">
+    <div class="row justify-content-center mb-4">
+      <div
+        class="col-md-6 col-lg-3 col-xs-4 mb-3"
+        *ngFor="
+          let product of productsList
+            | paginate : { itemsPerPage: 8, currentPage: pageNumber }
+        "
+      >
+        <div class="card text-black">
+          <img
+            src="{{ product.image }}"
+            class="card-img-top"
+            alt="Apple Computer"
+          />
+          <div class="card-body">
+            <div class="text-center">
+              <h5 class="card-title">{{ product.name }}</h5>
+              <p class="text-muted mb-2">{{ product.company }}</p>
             </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
+            <div>
+              <div class="d-flex justify-content-center">
+                <span>Size:- {{ product.size }}</span>
               </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
+              <div class="d-flex justify-content-center">
+                <span>MRP:- {{ product.price }}/-</span>
               </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
+              <div class="d-flex justify-content-center">
+                <span> {{ product.description }}</span>
+              </div>
             </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
+
           </div>
         </div>
       </div>
     </div>
-</section>
-<section>
-    <div class="container py-4">
-      <div class="row justify-content-center mb-4">
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-</section>
-<section>
-    <div class="container py-4">
-      <div class="row justify-content-center mb-4">
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
-          <div class="card text-black">
-            <img
-              src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
-              class="card-img-top"
-              alt="Apple Computer"
-            />
-            <div class="card-body">
-              <div class="text-center">
-                <h5 class="card-title">Product Title</h5>
-                <p class="text-muted mb-2">Brand</p>
-              </div>
-              <div>
-                <div class="d-flex justify-content-center">
-                  <span>Size</span>
-                </div>
-                <div class="d-flex justify-content-center">
-                  <span>Description</span>
-                </div>
-              </div>
-              <!-- <div
-                class="d-flex  justify-content-center total font-weight-bold"
-              >
-                <a to="#" class="btn btn-primary"> View Product </a>
-              </div> -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-</section>
+  </div>
+</section> -->
+<div class="pagination">
+  <pagination-controls (pageChange)="pageNumber = $event"></pagination-controls>
+</div>

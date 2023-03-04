@@ -8,6 +8,7 @@ const routes: Routes = [
   {path : '' , component : HomePageComponent , pathMatch : 'full'},
   {path : 'products' , component : ProductPageComponent , pathMatch : 'full'},
   {path : 'contact' , component : ContactusPageComponent  , pathMatch : 'full'},
+  {path : 'products/:id' , component : ProductPageComponent},
   {path : '**' , redirectTo : '' , pathMatch:'full'}
 ];
 

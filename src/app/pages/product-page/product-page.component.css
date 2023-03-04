@@ -7,7 +7,7 @@
 }
 .selector {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
 }
 .company-info {
   margin: 25px 0;
