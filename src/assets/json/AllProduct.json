@@ -65,7 +65,6 @@
     "description": "CUSTOMISED & REGULAR SIZE WICKER BASKET ",
     "image": "https://5.imimg.com/data5/NS/RT/LI/SELLER-4542862/wicker-basket-pvc-500x500.jpg"
   },
-
   {
     "name": "Plinth Cover",
     "size": "2.4 Mtr",
@@ -424,7 +423,7 @@
     "size": "0 Crank",
     "price": "97 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
@@ -435,7 +434,7 @@
     "size": "8 Crank",
     "price": "102 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
@@ -446,7 +445,7 @@
     "size": "16 Crank",
     "price": "107 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate.jpg"
@@ -457,7 +456,7 @@
     "size": "0 Crank",
     "price": "175 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
@@ -468,7 +467,7 @@
     "size": "180 Crank",
     "price": "97 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
@@ -479,7 +478,7 @@
     "size": "185 Crank",
     "price": " Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/b/-/b--slide-on-regular-with-4-hole-mounting-plate_4.jpg"
@@ -491,7 +490,7 @@
     "price": "311 Mrp",
     "discount": "40%",
     "company": "Hepo",
-    "gst": "18 %",
+    "gst" : "18%",
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
   },
   {
@@ -500,7 +499,7 @@
     "size": "12 Inch",
     "price": "379 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
@@ -511,7 +510,7 @@
     "size": "340 mm",
     "price": "788 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
@@ -522,7 +521,7 @@
     "size": "340 mm",
     "price": "1362 Mrp",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "company": "Hepo",
     "companyId": 3,
     "image": "https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/h/-/h--hepo-gas-spring-for-overhead_9.jpg"
@@ -532,7 +531,7 @@
     "description": "Bed Fitting Frame",
     "size": "1100mm",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "price": "3300 Mrp",
     "company": "Hepo",
     "companyId": 3,
@@ -543,7 +542,7 @@
     "description": "Bed Fitting Frame",
     "size": "1500mm",
     "discount": "40%",
-    "gst": "18 %",
+    "gst" : "18%",
     "price": "3900 Mrp",
     "company": "Hepo",
     "companyId": 3,
@@ -1060,250 +1059,322 @@
     "description": "Regular Black Telescopic Channel",
     "company": "Hepo",
     "companyId": 6,
-    "size": [10, 12, 14, 16, 18, 20, 22, 24],
-    "gst": "18 %",
-    "discount": ""
+    "size": [
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ],
+    "gst": "18%",
+    "discount": "40%",
+    "image": "https://www.luckystarenterprise.co.in/static/media/blk.b60055b90a1c3476de0c.png"
   },
   {
     "name": "Telescopic Channel",
     "description": "Soft Close Zinc Telescopic Channel",
     "company": "Hepo",
     "companyId": 6,
-    "size": [12, 14, 16, 18, 20, 22, 24],
-    "gst": "18 %",
-    "discount": ""
+    "size": [
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ],
+    "gst": "18%",
+    "discount": "40%",
+    "image": "https://www.luckystarenterprise.co.in/static/media/soft.8031c62e41e75651b8de.png"
   },
   {
     "name": "Telescopic Channel",
     "description": "Regular Black Telescopic Channel",
     "company": "Baba",
     "companyId": 6,
-    "size": [10, 12, 14, 16, 18, 20, 22, 24],
-    "gst": "18 %"
+    "size": [
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ],
+    "gst" : "18%",
+    "image": "https://www.luckystarenterprise.co.in/static/media/blk.aa0ca2194a3646d0d289.png"
   },
   {
     "name": "Telescopic Channel",
     "description": "Regular Black Telescopic Channel",
     "company": "Casa",
     "companyId": 6,
-    "size": [10, 12, 14, 16, 18, 20, 22, 24],
-    "gst": "18 %"
+    "size": [
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ],
+    "gst" : "18%",
+    "image": "https://www.luckystarenterprise.co.in/static/media/blk.0cb129ec8d787028d57c.png"
   },
   {
     "name": "Telescopic Channel",
     "description": "Soft Close Zinc Telescopic Channel",
     "company": "Casa",
     "companyId": 6,
-    "size": [10, 12, 14, 16, 18, 20, 22, 24],
-    "gst": "18 %"
+    "size": [
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ],
+    "gst" : "18%",
+    "image": "https://www.luckystarenterprise.co.in/static/media/soft.95fdae3701bd15b307aa.png"
   },
   {
-    "name": "TANDEM PANTRY",
-    "size": "W-564 x D-460 x H-650-850",
-    "description": "TANDEM PANTRY PULL OUT SB",
-    "price": "14284/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "TANDEM PANTRY",
-    "size": "W-564 x D-460 x H-1250-1450",
-    "description": "TANDEM PANTRY PULL OUT SB",
-    "price": "18781/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "TANDEM PANTRY",
-    "size": "W-564 x D-460 x H-1850-2050",
-    "description": "TANDEM PANTRY PULL OUT SB",
-    "price": "21645/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "LARDER PULL OUT",
-    "size": "W-264 x D-490 x H-1250-1450",
-    "description": "LARDER PULL OUT SB",
-    "price": "17799/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "LARDER PULL OUT",
-    "size": "W-264 x D-490 x H-1850-2050",
-    "description": "LARDER PULL OUT SB",
-    "price": "20561/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "CORNER PULL OUT",
-    "size": "W-864 x D-500 x H-700",
-    "description": "CORNER PULL OUT SB",
-    "price": "18449/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "BLIND CORNER",
-    "size": "W-664 x D-500 x H-700",
-    "description": "BLIND CORNER PULL OUT SB",
-    "price": "18185/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "CAROUSEL CORNER",
-    "size": "W-714 x D-714 x H-700",
-    "description": "CAROUSEL CORNER SB",
-    "price": "11983/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "UNDER SINK",
-    "size": "W-214 x D-510 x H-440",
-    "description": "UNDER SINK PULL OUT SB",
-    "price": "3049/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "PLATE INSERT",
-    "size": "W-160 x D-482 x H-130",
-    "description": "PLATE INSERT",
-    "price": "427/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "CUP & SAUCER INSERT",
-    "size": "W-128 x D-482 x H-75",
-    "description": "PLATE INSERT",
-    "price": "331/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "BIG PLATE INSERT",
-    "size": "W-160 x D-482 x H-130",
-    "description": "PLATE INSERT",
-    "price": "442/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "DEE TRAY CORNER",
-    "size": "W-714 x D-450 x H-700",
-    "description": "DEE TRAY CORNER WB",
-    "price": "8826/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "CAROUSEL CORNER",
-    "size": "W-714 x D-714 x H-700",
-    "description": "CAROUSEL CORNER WB",
-    "price": "11898/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "DOUBLE STOREY",
-    "size": "W-114 x D-510 x H-440",
-    "description": "DOUBLE STOREY PULL OUT WB",
-    "price": "2125/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "TRIPLE STOREY",
-    "size": "W-114 x D-510 x H-440",
-    "description": "TRIPLE STOREY PULL OUT WB",
-    "price": "3067/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "DRAWER BASKET WB",
-    "size": "W-318 x D-500 x H-100",
-    "description": "DRAWER BASKET WB",
-    "price": "1760/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "DRAWER SINK BASKET",
-    "size": "W-812 x D-500 x H-150",
-    "description": "DRAWER SINK BASKET WB",
-    "price": "4402/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "GLASS AND PLATE RACK",
-    "size": "W-414 x D-300",
-    "description": "GLASS AND PLATE RACK WB",
-    "price": "1531/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "WINE GLASS HOLDER",
-    "size": "W-125 x D-345 x H-70",
-    "description": "WINE GLASS HOLDER WB",
-    "price": "323/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "CABINET SPICE RACK",
-    "size": "W-360 x D-125 x H-480",
-    "description": "CABINET SPICE RACK WB",
-    "price": "2460/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "MULTI FUNCTIONAL RACK",
-    "size": "W-310 x D-85 x H-75",
-    "description": "MULTI FUNCTIONAL RACK WB",
-    "price": "592/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
-  {
-    "name": "DETERGENT RACK",
-    "size": "W-240 x D-160 x H-305",
-    "description": "DETERGENT RACK WB",
-    "price": "1142/-",
-    "discount": "35%",
-    "companyId": 7,
-    "gst": "12%"
-  },
+    "name" : "TANDEM PANTRY",
+    "size" : "W-564 x D-460 x H-650-850",
+    "description" : "TANDEM PANTRY PULL OUT SB",
+    "price" : "14284/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPPOSB650600-954x1040.jpg"
+},
+{
+    "name" : "TANDEM PANTRY",
+    "size" : "W-564 x D-460 x H-1250-1450",
+    "description" : "TANDEM PANTRY PULL OUT SB",
+    "price" : "18781/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPPO1FSB1250450-954x1040.jpg"
+},
+{
+    "name" : "TANDEM PANTRY",
+    "size" : "W-564 x D-460 x H-1850-2050",
+    "description" : "TANDEM PANTRY PULL OUT SB",
+    "price" : "21645/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPPOSB1850450-954x1040.png"
+},
+{
+    "name" : "LARDER PULL OUT",
+    "size" : "W-264 x D-490 x H-1250-1450",
+    "description" : "LARDER PULL OUT SB",
+    "price" : "17799/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ELPOSB1250450-954x1040.png"
+},
+{
+    "name" : "LARDER PULL OUT",
+    "size" : "W-264 x D-490 x H-1850-2050",
+    "description" : "LARDER PULL OUT SB",
+    "price" : "20561/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ELPOSB1850300-954x1040.png"
+},
+{
+    "name" : "CORNER PULL OUT",
+    "size" : "W-864 x D-500 x H-700",
+    "description" : "CORNER PULL OUT SB",
+    "price" : "18449/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECPOSB900-954x1040.png "
+},
+{
+    "name" : "BLIND CORNER",
+    "size" : "W-664 x D-500 x H-700",
+    "description" : "BLIND CORNER PULL OUT SB",
+    "price" : "18185/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EBCPOSB700-2-954x1040.png"
+},
+{
+    "name" : "CAROUSEL CORNER",
+    "size" : "W-714 x D-714 x H-700",
+    "description" : "CAROUSEL CORNER SB",
+    "price" : "11983/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECCSB750-954x1040.png"
+},
+{
+    "name" : "UNDER SINK",
+    "size" : "W-214 x D-510 x H-440",
+    "description" : "UNDER SINK PULL OUT SB",
+    "price" : "3049/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Under-Sink-Pullout-SB-Assy-68-954x1040.jpg"
+},
+{
+    "name" : "PLATE INSERT",
+    "size" : "W-160 x D-482 x H-130",
+    "description" : "PLATE INSERT",
+    "price" : "427/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Under-Sink-Pullout-SB-Assy-68-954x1040.jpg"
+},
+{
+    "name" : "CUP & SAUCER INSERT",
+    "size" : "W-128 x D-482 x H-75",
+    "description" : "PLATE INSERT",
+    "price" : "331/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Cup-Saucer-Insert-954x1040.png"
+},
+{
+    "name" : "BIG PLATE INSERT",
+    "size" : "W-160 x D-482 x H-130",
+    "description" : "PLATE INSERT",
+    "price" : "442/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Big-Plate-Insert-954x1040.png"
+},
+{
+    "name" : "DEE TRAY CORNER",
+    "size" : "W-714 x D-450 x H-700",
+    "description" : "DEE TRAY CORNER WB",
+    "price" : "8826/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDTCWB750-954x1040.png"
+},
+{
+    "name" : "CAROUSEL CORNER",
+    "size" : "W-714 x D-714 x H-700",
+    "description" : "CAROUSEL CORNER WB",
+    "price" : "11898/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECCWB750-954x1040.png"
+},
+{
+    "name" : "DOUBLE STOREY",
+    "size" : "W-114 x D-510 x H-440",
+    "description" : "DOUBLE STOREY PULL OUT WB",
+    "price" : "2125/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDPO430250WB-954x1040.png"
+},
+{
+    "name" : "TRIPLE STOREY",
+    "size" : "W-114 x D-510 x H-440",
+    "description" : "TRIPLE STOREY PULL OUT WB",
+    "price" : "3067/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ETPO530250WB-954x1040.png"
+},
+{
+    "name" : "DRAWER BASKET WB",
+    "size" : "W-318 x D-500 x H-100",
+    "description" : "DRAWER BASKET WB",
+    "price" : "1760/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDBWB-C0000-954x1040.png"
+},
+{
+    "name" : "DRAWER SINK BASKET",
+    "size" : "W-812 x D-500 x H-150",
+    "description" : "DRAWER SINK BASKET WB",
+    "price" : "4402/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EDSBWB15900_01-954x1040.png"
+},
+{
+    "name" : "GLASS AND PLATE RACK",
+    "size" : "W-414 x D-300",
+    "description" : "GLASS AND PLATE RACK WB",
+    "price" : "1531/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/EWCGRPRWB900-954x1040.png"
+},
+{
+    "name" : "WINE GLASS HOLDER",
+    "size" : "W-125 x D-345 x H-70",
+    "description" : "WINE GLASS HOLDER WB",
+    "price" : "323/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/ECGH2L-954x1040.jpg"
+},
+{
+    "name" : "CABINET SPICE RACK",
+    "size" : "W-360 x D-125 x H-480",
+    "description" : "CABINET SPICE RACK WB",
+    "price" : "2460/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Cabinet-Door-Spice-Rack-WB-954x1040.jpg"
+},
+{
+    "name" : "MULTI FUNCTIONAL RACK",
+    "size" : "W-310 x D-85 x H-75",
+    "description" : "MULTI FUNCTIONAL RACK WB",
+    "price" : "592/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Multi-Purpose-Rack-WB-954x1040.png"
+},
+{
+    "name" : "DETERGENT RACK",
+    "size" : "W-240 x D-160 x H-305",
+    "description" : "DETERGENT RACK WB",
+    "price" : "1142/-",
+    "discount" : "35%",
+    "companyId" : 7,
+    "gst" : "12%",
+    "image" : "https://everyday-india.com/wp-content/uploads/2021/01/Detergent-Rack-954x1040.png"
+},
   {
     "name": "NAV-TAL LOCK",
     "price": "860",

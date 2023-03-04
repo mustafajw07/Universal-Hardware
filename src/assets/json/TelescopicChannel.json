@@ -6,7 +6,8 @@
         "companyId" : 6,
         "size" : [10,12,14,16,18,20,22,24],
         "gst" : "18 %",
-        "discount" : ""
+        "discount" : "40%",
+        "image" : "https://www.luckystarenterprise.co.in/static/media/blk.b60055b90a1c3476de0c.png"
     },
     {
         "name" : "Telescopic Channel",
@@ -15,7 +16,8 @@
         "companyId" : 6,
         "size" : [12,14,16,18,20,22,24],
         "gst" : "18 %",
-        "discount" : ""
+        "discount" : "40%",
+        "image" : "https://www.luckystarenterprise.co.in/static/media/soft.8031c62e41e75651b8de.png"
     },
     {
         "name" : "Telescopic Channel",
@@ -23,7 +25,8 @@
         "company" : "Baba",
         "companyId" : 6,
         "size" : [10,12,14,16,18,20,22,24],
-        "gst" : "18 %"
+        "gst" : "18 %",
+        "image" : "https://www.luckystarenterprise.co.in/static/media/blk.aa0ca2194a3646d0d289.png"
     },
     {
         "name" : "Telescopic Channel",
@@ -31,7 +34,8 @@
         "company" : "Casa",
         "companyId" : 6,
         "size" : [10,12,14,16,18,20,22,24],
-        "gst" : "18 %"
+        "gst" : "18 %",
+        "image" : "https://www.luckystarenterprise.co.in/static/media/blk.0cb129ec8d787028d57c.png"
     },
     {
         "name" : "Telescopic Channel",
@@ -39,6 +43,7 @@
         "company" : "Casa",
         "companyId" : 6,
         "size" : [10,12,14,16,18,20,22,24],
-        "gst" : "18 %"
+        "gst" : "18 %",
+        "image" : "https://www.luckystarenterprise.co.in/static/media/soft.95fdae3701bd15b307aa.png"
     }
 ]
