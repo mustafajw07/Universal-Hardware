@@ -22,15 +22,6 @@
     {
         "name" : "Telescopic Channel",
         "description" : "Regular Black Telescopic Channel",
-        "company" : "Baba",
-        "companyId" : 6,
-        "size" : [10,12,14,16,18,20,22,24],
-        "gst" : "18 %",
-        "image" : "https://www.luckystarenterprise.co.in/static/media/blk.aa0ca2194a3646d0d289.png"
-    },
-    {
-        "name" : "Telescopic Channel",
-        "description" : "Regular Black Telescopic Channel",
         "company" : "Casa",
         "companyId" : 6,
         "size" : [10,12,14,16,18,20,22,24],

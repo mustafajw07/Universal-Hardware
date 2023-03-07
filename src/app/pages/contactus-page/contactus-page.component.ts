@@ -42,6 +42,8 @@ export class ContactusPageComponent implements OnInit {
   ngOnInit(): void {
     this.api.getKeys().subscribe((res: any) => {
       res = res[0];
+      console.log(res);
+
       this.YOUR_PUBLIC_KEY = res.YOUR_PUBLIC_KEY;
       this.YOUR_SERVICE_ID = res.YOUR_SERVICE_ID;
       this.YOUR_TEMPLATE_ID = res.YOUR_TEMPLATE_ID;

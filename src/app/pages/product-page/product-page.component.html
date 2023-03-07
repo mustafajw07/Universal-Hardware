@@ -7,7 +7,7 @@
   <div class="company-info">
     <app-company-info  [id]="id"></app-company-info>
   </div>
-  <app-product-section [id]="id"></app-product-section>
-  <!-- <app-card-with-selector [id]="id"></app-card-with-selector> -->
+  <app-product-section *ngIf="id !== 6" [id]="id"></app-product-section>
+  <app-card-with-selector *ngIf="id === 6" [id]="id"></app-card-with-selector>
 </div>
 <app-footer></app-footer>

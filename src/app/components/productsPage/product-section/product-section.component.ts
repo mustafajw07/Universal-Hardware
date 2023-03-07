@@ -47,12 +47,6 @@ export class ProductSectionComponent implements OnChanges {
           .subscribe((res) => (this.productsList = res));
           this.pageNumber = 1;
         break;
-      case 6:
-        this.api
-          .getAllTelescopicChannel()
-          .subscribe((res) => (this.productsList = res));
-          this.pageNumber = 1;
-        break;
       case 7:
         this.api
           .getAllEverydayProducts()

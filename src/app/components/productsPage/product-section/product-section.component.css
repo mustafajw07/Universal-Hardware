@@ -1,18 +1,8 @@
 .pagination {
-  margin-top: 50px;
-  margin-bottom: 25px;
   display: flex;
-  justify-content: right;
+  justify-content: space-between;
+  margin: 50px 0 0 25px;
 }
-
-
-/* .container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  width: 940px;
-  margin: auto;
-} */
 .card {
   background-color: #fff;
   border-radius: 10px;
@@ -86,9 +76,10 @@
 .user-info small {
   color: #888785;
 }
-@media (max-width: 940px) {
-  /* .container {
-    grid-template-columns: 1fr;
-    justify-items: center;
-  } */
+button:hover{
+  color:white
+}
+a{
+  text-decoration: none;
+  color: black;
 }
