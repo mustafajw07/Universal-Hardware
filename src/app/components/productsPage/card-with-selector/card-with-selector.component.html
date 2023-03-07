@@ -1,43 +1,163 @@
 <section>
   <div class="container py-4">
     <div class="row justify-content-center mb-4">
+      <!-- Hepo Soft -->
       <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
         <div class="card text-black">
           <img
-            src="https://hepoindia.com/pub/media/catalog/product/cache/36e26916d3573c3fd820f5a3750a4787/1/-/1--hepo-black-ka-channel--ankita-24-oct-_1__1_2.jpg"
+            src="https://www.luckystarenterprise.co.in/static/media/soft.8031c62e41e75651b8de.png"
             class="card-img-top"
             alt="Apple Computer"
           />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Product Title</h5>
-              <p class="text-muted mb-2">Brand</p>
+              <h5 class="card-title">Telescopic Channel</h5>
+              <p class="text-muted mb-2">Hepo</p>
             </div>
             <div>
               <div class="d-flex justify-content-center">
                 <div class="select_component">
-                  <select name="option" id="option" (change)="onSize($event)">
+                  <select name="option" id="option" (change)="hepoSoftChange($event)">
                     <option selected="selected" disabled>Choose Size</option>
-                    <option value="10">10 Inch</option>
                     <option value="12">12 Inch</option>
                     <option value="14">14 Inch</option>
                     <option value="16">16 Inch</option>
+                    <option value="18">18 Inch</option>
+                    <option value="20">20 Inch</option>
+                    <option value="22">22 Inch</option>
                   </select>
                 </div>
               </div>
 
               <div class="d-flex justify-content-center">
-                <span>Price</span>
+                <span>Mrp:- {{hepoSoftPrice}}/-</span>
               </div>
               <div class="d-flex justify-content-center">
-                <span>Description</span>
+                <span>Soft Close Zinc Telescopic Channel</span>
               </div>
             </div>
-            <!-- <div
-                    class="d-flex  justify-content-center total font-weight-bold"
-                  >
-                    <a to="#" class="btn btn-primary"> View Product </a>
-                  </div> -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Hepo Black -->
+      <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
+        <div class="card text-black">
+          <img
+            src="https://www.luckystarenterprise.co.in/static/media/blk.b60055b90a1c3476de0c.png"
+            class="card-img-top"
+            alt="Apple Computer"
+          />
+          <div class="card-body">
+            <div class="text-center">
+              <h5 class="card-title">Telescopic Channel</h5>
+              <p class="text-muted mb-2">Hepo</p>
+            </div>
+            <div>
+              <div class="d-flex justify-content-center">
+                <div class="select_component">
+                  <select name="option" id="option" (change)="hepoBlkChange($event)">
+                    <option selected="selected" disabled>Choose Size</option>
+                    <option value="10">10 Inch</option>
+                    <option value="12">12 Inch</option>
+                    <option value="14">14 Inch</option>
+                    <option value="16">16 Inch</option>
+                    <option value="18">18 Inch</option>
+                    <option value="20">20 Inch</option>
+                    <option value="22">22 Inch</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="d-flex justify-content-center">
+                <span>Mrp:- {{hepoBlkPrice}}/-</span>
+              </div>
+              <div class="d-flex justify-content-center">
+                <span>Regular Black Telescopic Channel</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Casa Black -->
+      <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
+        <div class="card text-black">
+          <img
+            src="https://www.luckystarenterprise.co.in/static/media/blk.0cb129ec8d787028d57c.png"
+            class="card-img-top"
+            alt="Apple Computer"
+          />
+          <div class="card-body">
+            <div class="text-center">
+              <h5 class="card-title">Telescopic Channel</h5>
+              <p class="text-muted mb-2">Casa</p>
+            </div>
+            <div>
+              <div class="d-flex justify-content-center">
+                <div class="select_component">
+                  <select name="option" id="option" (change)="casaBlkChange($event)">
+                    <option selected="selected" disabled>Choose Size</option>
+                    <option value="10">10 Inch</option>
+                    <option value="12">12 Inch</option>
+                    <option value="14">14 Inch</option>
+                    <option value="16">16 Inch</option>
+                    <option value="18">18 Inch</option>
+                    <option value="20">20 Inch</option>
+                    <option value="22">22 Inch</option>
+                    <option value="22">24 Inch</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="d-flex justify-content-center">
+                <span>Mrp:- {{casaBlkPrice}}/-</span>
+              </div>
+              <div class="d-flex justify-content-center">
+                <span>Regular Black Telescopic Channel</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Casa Zinc -->
+      <div class="col-md-6 col-lg-3 col-xs-4 mb-3">
+        <div class="card text-black">
+          <img
+            src="https://www.luckystarenterprise.co.in/static/media/soft.95fdae3701bd15b307aa.png"
+            class="card-img-top"
+            alt="Apple Computer"
+          />
+          <div class="card-body">
+            <div class="text-center">
+              <h5 class="card-title">Telescopic Channel</h5>
+              <p class="text-muted mb-2">Casa</p>
+            </div>
+            <div>
+              <div class="d-flex justify-content-center">
+                <div class="select_component">
+                  <select name="option" id="option" (change)="casaSoftChange($event)">
+                    <option selected="selected" disabled>Choose Size</option>
+                    <option value="10">10 Inch</option>
+                    <option value="12">12 Inch</option>
+                    <option value="14">14 Inch</option>
+                    <option value="16">16 Inch</option>
+                    <option value="18">18 Inch</option>
+                    <option value="20">20 Inch</option>
+                    <option value="22">22 Inch</option>
+                    <option value="22">24 Inch</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="d-flex justify-content-center">
+                <span>Mrp:- {{casaSoftPrice}}/-</span>
+              </div>
+              <div class="d-flex justify-content-center">
+                <span>Soft Close Zinc Telescopic Channel</span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
