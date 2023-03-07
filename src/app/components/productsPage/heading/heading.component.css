@@ -3,7 +3,8 @@ div{
     justify-content: center;
     align-items: center;
     height: 100px;
-    background-color: #ddd;
+    /* background-color: #ddd; */
+    background-color: #E3E8F0;
     color: #171717;
     border-bottom: 3px solid #171717;
 }

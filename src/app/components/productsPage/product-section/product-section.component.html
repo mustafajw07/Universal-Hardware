@@ -31,47 +31,34 @@
     </div>
   </div>
 </div>
-
-<!-- <section>
-
-  <div class="container py-4">
-    <div class="row justify-content-center mb-4">
-      <div
-        class="col-md-6 col-lg-3 col-xs-4 mb-3"
-        *ngFor="
-          let product of productsList
-            | paginate : { itemsPerPage: 8, currentPage: pageNumber }
-        "
-      >
-        <div class="card text-black">
-          <img
-            src="{{ product.image }}"
-            class="card-img-top"
-            alt="Apple Computer"
-          />
-          <div class="card-body">
-            <div class="text-center">
-              <h5 class="card-title">{{ product.name }}</h5>
-              <p class="text-muted mb-2">{{ product.company }}</p>
-            </div>
-            <div>
-              <div class="d-flex justify-content-center">
-                <span>Size:- {{ product.size }}</span>
-              </div>
-              <div class="d-flex justify-content-center">
-                <span>MRP:- {{ product.price }}/-</span>
-              </div>
-              <div class="d-flex justify-content-center">
-                <span> {{ product.description }}</span>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
 <div class="pagination">
+  <!-- REHAU -->
+  <button type="button" class="btn btn-outline-danger text-start" *ngIf="id == 2"><a class="txt" href="../../../../assets/catalogue/Rehau-PriceList.pdf"
+    download="Rehau PriceList.pdf">
+    Download
+  </a></button>
+  <!-- HEPO -->
+  <button type="button" class="btn btn-outline-danger text-start" *ngIf="id == 3"><a class="txt" href="../../../../assets/catalogue/Hepo.pdf"
+    download="Hepo PriceList.pdf">
+    Download
+  </a></button>
+  <!-- EVERYDAY -->
+  <button type="button" class="btn btn-outline-danger text-start" *ngIf="id == 7"><a class="txt" href="../../../../assets/catalogue/Everyday Pricelist.pdf"
+    download="Everyday Pricelist.pdf">
+    Download
+  </a></button>
+  <!-- GODREJ -->
+  <button type="button" class="btn btn-outline-danger text-start" *ngIf="id == 8"><a class="txt" href="../../../../assets/catalogue/Godrej Product Price List Apr 22.pdf"
+    download="Godrej PriceList.pdf">
+    Download
+  </a></button>
+  <!-- EUROPA -->
+  <button type="button" class="btn btn-outline-danger text-start" *ngIf="id == 9"><a class="txt" href="../../../../assets/catalogue/Europa.pdf"
+    download="Europa PriceList.pdf">
+    Download
+  </a></button>
+
   <pagination-controls (pageChange)="pageNumber = $event"></pagination-controls>
+
 </div>
+
